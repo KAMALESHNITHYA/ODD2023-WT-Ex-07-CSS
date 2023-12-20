@@ -384,3 +384,6 @@ font-size=16px;
 # OUTPUT
 ![Alt text](<WhatsApp Image 2023-12-20 at 10.52.10_aed0bf2d.jpg>)
 ![Alt text](<WhatsApp Image 2023-12-20 at 10.52.10_d6417c3b.jpg>)
+
+# RESULT
+The output was verified successfully
