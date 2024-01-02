@@ -1,4 +1,6 @@
 # Ex-07-CSS7(i)
+## NAME : KAMALESH R
+## REF NO : 23001711
 # AIM:
 (i) Using CSS media queries, modify the webpage's color scheme with the following requirements:
 Default Color Scheme:
